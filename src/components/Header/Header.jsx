@@ -13,6 +13,9 @@ const Header = () => {
                     <Link to='/review'>Order Review</Link>
                 </li>
                 <li>
+                    <Link to='/grandpa'>Grandpa</Link>
+                </li>
+                <li>
                     <Link to='/about'>About</Link>
                 </li>
                 <li>
